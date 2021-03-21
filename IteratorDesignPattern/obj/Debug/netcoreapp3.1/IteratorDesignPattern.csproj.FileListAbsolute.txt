@@ -1,0 +1,11 @@
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.exe
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\bin\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.dll
+C:\Users\ahemaid\source\repos\IteratorDesignPattern\IteratorDesignPattern\obj\Debug\netcoreapp3.1\IteratorDesignPattern.pdb
